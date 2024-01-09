@@ -465,7 +465,13 @@
                 {
                  "height":127.122919118883,
                  "id":23,
-                 "name":"silentZone",
+                 "name":"silentZone2",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
